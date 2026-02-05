@@ -1,0 +1,5 @@
+{
+  "name": "EggBreaker Pro",
+  "description": "A full-stack, production-ready egg cracking game with level progression, real-time authentication, and persistent database storage.",
+  "requestFramePermissions": []
+}
